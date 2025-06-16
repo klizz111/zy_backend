@@ -5,3 +5,8 @@
 /.env
 /Pipfile.lock
 /Pipfile
+/fake.py 
+/homomorphic_encryption.py
+/show.py
+/transformers.py
+/database.py
